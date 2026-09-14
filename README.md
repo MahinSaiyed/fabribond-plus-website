@@ -81,7 +81,7 @@ FabriBond Plus does not work on wool fabric.
 
 **Instagram:** https://www.instagram.com/royal_.stores/
 
-**Website:** https://febribond.netlify.app
+**Website:** https://fabribond.netlify.app
 
 **Compnay:** https://saiyedwebcoders.netlify.app
 
