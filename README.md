@@ -79,13 +79,11 @@ FabriBond Plus does not work on wool fabric.
 
 ## Contact
 
-**WhatsApp:** +91 83478 74084
-
 **Instagram:** https://www.instagram.com/royal_.stores/
 
-**Website:** https://FebriBond.netlify.app
+**Website:** https://febribond.netlify.app
 
-**Store:** https://MahinSyed.github.io
+**Compnay:** https://saiyedwebcoders.netlify.app
 
 ## Project Structure
 
